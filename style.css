@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+ul li {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
